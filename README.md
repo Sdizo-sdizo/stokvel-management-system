@@ -24,3 +24,7 @@ A full-stack web application that helps users manage stokvel (group savings) act
 ```bash
 npm install
 npm start
+
+
+npm install
+ng serve
