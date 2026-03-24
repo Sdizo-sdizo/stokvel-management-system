@@ -26,5 +26,8 @@ npm install
 npm start
 
 
+### Frontend
+```bash
 npm install
 ng serve
+```
